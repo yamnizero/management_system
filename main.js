@@ -144,10 +144,10 @@ function  updateData(i)
     submit.innerHTML = 'Update';
     mood = 'update';
     tmp = i;
-    scroll({
+     scroll({
         top:0,
         behavior:'smooth',
-        
+
     })
 
 }
