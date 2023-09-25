@@ -147,6 +147,7 @@ function  updateData(i)
     scroll({
         top:0,
         behavior:'smooth',
+        
     })
 
 }
